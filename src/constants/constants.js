@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "MERN E-Commerce",
     description:
-      "Built with the MERN stack, this shopping cart utilizes state mangament library Redux with the usage of JSON Web Tokens for Authentication and Payment gateways like Paypal.",
+      "Built with the MERN stack, this shopping cart utilizes state mangament library Redux with the usage of JSON Web Tokens for Authorization and Payment gateways like Paypal.",
     image: "/images/2.jpeg",
     tags: ["Mongo", "Express", "React", "Node", "Redux"],
     source: "https://google.com",
